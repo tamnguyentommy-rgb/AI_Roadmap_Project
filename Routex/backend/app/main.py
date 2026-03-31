@@ -4,7 +4,6 @@ from fastapi.middleware.cors import CORSMiddleware
 
 # --- IMPORT ROUTER (API) ---
 from app.api.endpoints import roadmap
-
 # --- IMPORT DATABASE KHU VỰC ---
 from app.db.session import engine
 from app.db.base import Base
