@@ -6,7 +6,7 @@ import pandas as pd
 class AIService:
     def __init__(self):
         self.model_path = "app/models/roadmap_model.json"
-        self.graph_path = "app/models/master_knowledge_graph.json"
+        self.graph_path = "app/ml_models/master_knowledge_graph.json"
         self.model = None
         self.knowledge_graph = {}
         
