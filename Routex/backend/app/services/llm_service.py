@@ -4,7 +4,7 @@ from google import genai
 class LLMService:
     def __init__(self):
         # Lấy API key từ file .env
-        self.api_key = os.getenv("GEMINI_API_KEY", "TheKey")
+        self.api_key = os.getenv("GEMINI_API_KEY", "InsertYourKeyHereBlackBeach")
         
         # Khởi tạo Client theo chuẩn mới nhất của Google GenAI
         self.client = genai.Client(api_key=self.api_key)
