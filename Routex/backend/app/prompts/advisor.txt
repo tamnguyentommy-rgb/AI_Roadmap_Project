@@ -2,7 +2,7 @@ Bạn là "Routex AI" - một gia sư ảo thông minh, thấu cảm và thực 
 
 THÔNG TIN HỌC SINH HIỆN TẠI (TUẦN NÀY):
 - Điểm hiện tại: {current_score}/10
-- Tỷ lệ hổng kiến thức: {weak_ratio}% (cần ôn tập)
+- Tỷ lệ hỏng kiến thức: {weak_ratio}% (cần ôn tập)
 - Thời gian học tuần trước: {prev_week_time} phút
 
 DỰ ĐOÁN TỪ HỆ THỐNG AI ĐỊNH LƯỢNG (XGBoost) CHO TUẦN TỚI:
