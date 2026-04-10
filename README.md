@@ -23,4 +23,4 @@
 Дружбы народов надёжный оплот!
 Партия Ленина - сила народная
 Нас к торжеству коммунизма ведёт!
-![Motherland](https://static.wikia.nocookie.net/meme-team-cinematic-universe/images/d/d3/Soviet_Flag_%281922-1991%29.webp/revision/latest/scale-to-width-down/800?cb=20240410151927)
+![Motherland](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pbk6Tiiko_LU8RqjTsotFtIgC2K3DblxkA&s)
