@@ -1,0 +1,20 @@
+[1G[0K⠙[1G[0K
+> frontend@0.1.0 dev
+> next dev -p 5000 -H 0.0.0.0
+
+[1G[0K⠙[1G[0K[1m[38;2;173;127;168m▲ Next.js 16.2.1[39m[22m (Turbopack)
+- Local:         http://localhost:5000
+- Network:       http://0.0.0.0:5000
+[32m[1m✓[22m[39m Ready in 768ms
+
+ GET / [32m200[39m in 2.3s[2m (next.js: 2.0s, application-code: 259ms)[22m
+ GET /health [33m404[39m in 88ms[2m (next.js: 20ms, application-code: 68ms)[22m
+ GET / [32m200[39m in 121ms[2m (next.js: 6ms, application-code: 115ms)[22m
+ GET /health [33m404[39m in 63ms[2m (next.js: 7ms, application-code: 55ms)[22m
+ GET /onboarding/subject [32m200[39m in 902ms[2m (next.js: 861ms, application-code: 41ms)[22m
+ GET /onboarding/config [32m200[39m in 127ms[2m (next.js: 101ms, application-code: 25ms)[22m
+ GET /onboarding/exam-date [32m200[39m in 66ms[2m (next.js: 36ms, application-code: 29ms)[22m
+ GET /onboarding/topics [32m200[39m in 72ms[2m (next.js: 43ms, application-code: 30ms)[22m
+[36m[browser][39m Updating a style property during rerender (borderColor) when a conflicting property is set (borderTopColor) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. 
+[31m    at Proxy.<anonymous> (https://7b065ec9-b88d-4c71-b986-ad3f9f9f4dac-00-bq12iaoiozkw.pike.replit.dev:5000/__replco/static/devtools/injected.js:37:27)[39m [2m(https://7b065ec9-b88d-4c71-b986-ad3f9f9f4dac-00-bq12iaoiozkw.pike.replit.dev:5000/__replco/static/devtools/injected.js:37:27)[22m
+ GET /test [32m200[39m in 55ms[2m (next.js: 27ms, application-code: 29ms)[22m

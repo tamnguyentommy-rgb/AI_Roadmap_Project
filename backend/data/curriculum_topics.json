@@ -1,0 +1,942 @@
+{
+  "Hóa học": {
+    "10": [
+      {
+        "chapter": "Cấu tạo nguyên tử",
+        "lessons": [
+          "Thành phần của nguyên tử",
+          "Nguyên tố hóa học",
+          "Cấu trúc lớp vỏ electron nguyên tử",
+          "Cấu trúc lớp vỏ electron của nguyên tử"
+        ]
+      },
+      {
+        "chapter": "Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+        "lessons": [
+          "Cấu tạo của bảng tuần hoàn các nguyên tố hoá học",
+          "Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+          "Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì",
+          "Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học"
+        ]
+      },
+      {
+        "chapter": "Liên kết hoá học",
+        "lessons": [
+          "Quy tắc octet",
+          "Liên kết ion",
+          "Liên kết cộng hoá trị",
+          "Liên kết hydrogen và tương tác van der Waals"
+        ]
+      },
+      {
+        "chapter": "Phản ứng oxi hoá – khử",
+        "lessons": [
+          "Phản ứng oxi hoá – khử",
+          "Phản ứng oxi hoá – khử và ứng dụng trong cuộc sống"
+        ]
+      },
+      {
+        "chapter": "Năng lượng hoá học",
+        "lessons": [
+          "Biến thiên enthalpy trong các phản ứng hoá học",
+          "Enthalpy tạo thành và biến thiên enthalpy của phản ứng hoá học",
+          "Tính biến thiên enthalpy của phản ứng hoá học"
+        ]
+      },
+      {
+        "chapter": "Tốc độ phản ứng",
+        "lessons": ["Tốc độ phản ứng"]
+      },
+      {
+        "chapter": "Nguyên tố nhóm halogen",
+        "lessons": ["Nhóm halogen", "Hydrogen halide. Muối halide"]
+      },
+      {
+        "chapter": "BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC",
+        "lessons": [
+          "Cấu tạo bảng tuần hoàn các nguyên tố hoá học",
+          "Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố, thành phần và một số tính chất của hợp chất trong một chu kì và nhóm",
+          "Định luật tuần hoàn – Ý nghĩa của bảng tuần hoàn các nguyên tố hóa học"
+        ]
+      },
+      {
+        "chapter": "TỐC ĐỘ PHẢN ỨNG HOÁ HỌC",
+        "lessons": [
+          "Phương trình tốc độ phản ứng và hằng số tốc độ phản ứng",
+          "Các yếu tố ảnh hưởng đến tốc độ phản ứng hoá học"
+        ]
+      },
+      {
+        "chapter": "NGUYÊN TỐ NHÓM VIIA – HALOGEN",
+        "lessons": [
+          "Tính chất vật lí và hoá học các đơn chất nhóm VIIA",
+          "Hydrogen halide và một số phản ứng của ion halide",
+          "GIẢI THÍCH THUẬT NGỮ"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "chapter": "CÂN BẰNG HOÁ HỌC",
+        "lessons": [
+          "Khái niệm về cân bằng hoá học",
+          "Cân bằng trong dung dịch nước"
+        ]
+      },
+      {
+        "chapter": "NITROGEN – SULFUR",
+        "lessons": [
+          "Nitrogen",
+          "Ammonia – Muối ammonium",
+          "Một số hợp chất của nitrogen với oxygen",
+          "Sulfur và sulfur dioxide",
+          "Sulfuric acid và muối sulfate"
+        ]
+      },
+      {
+        "chapter": "ĐẠI CƯƠNG VỀ HOÁ HỌC HỮU CƠ",
+        "lessons": [
+          "Hợp chất hữu cơ và hoá học hữu cơ",
+          "Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+          "Công thức phân tử hợp chất hữu cơ",
+          "Cấu tạo hoá học hợp chất hữu cơ"
+        ]
+      },
+      {
+        "chapter": "HYDROCARBON",
+        "lessons": [
+          "Bài 15 Alkane",
+          "Bài 16 Hydrocarbon không no",
+          "Bài 17 Arene (Hydrocarbon thơm)",
+          "Alkane",
+          "Hydrocarbon không no",
+          "Arene (Hydrocarbon thơm)"
+        ]
+      },
+      {
+        "chapter": "DẪN XUẤT HALOGEN – ALCOHOL – PHENOL",
+        "lessons": ["Dẫn xuất halogen", "Alcohol", "Phenol"]
+      },
+      {
+        "chapter": "HỢP CHẤT CARBONYL – CARBOXYLIC ACID",
+        "lessons": ["Hợp chất carbonyl", "Carboxylic acid"]
+      },
+      {
+        "chapter": "NITROGEN VÀ SULFUR",
+        "lessons": [
+          "Đơn chất nitrogen",
+          "Ammonia và một số hợp chất ammonium",
+          "Một số hợp chất với oxygen của nitrogen",
+          "Sulfur và sulfur dioxide",
+          "Sulfuric acid và muối sulfate"
+        ]
+      },
+      {
+        "chapter": "ĐẠI CƯƠNG HOÁ HỌC HỮU CƠ",
+        "lessons": [
+          "Hợp chất hữu cơ và hoá học hữu cơ",
+          "Phương pháp tách và tinh chế hợp chất hữu cơ",
+          "Công thức phân tử hợp chất hữu cơ",
+          "Cấu tạo hoá học hợp chất hữu cơ"
+        ]
+      },
+      {
+        "chapter": "HỢP CHẤT CARBONYL (ALDEHYDE – KETONE) – CARBOXYLIC ACID",
+        "lessons": ["Hợp chất carbonyl", "Carboxylic acid"]
+      }
+    ],
+    "12": [
+      {
+        "chapter": "ESTER – LIPID",
+        "lessons": ["Ester – Lipid", "Xà phòng và chất giặt rửa"]
+      },
+      {
+        "chapter": "CARBOHYDRATE",
+        "lessons": [
+          "Giới thiệu về carbohydrate. Glucose và fructose",
+          "Saccharose và maltose",
+          "Tinh bột và cellulose",
+          "Glucose và fructose"
+        ]
+      },
+      {
+        "chapter": "HỢP CHẤT CHỨA NITROGEN",
+        "lessons": ["Amine", "Amino acid và peptide", "Protein và enzyme"]
+      },
+      {
+        "chapter": "POLYMER",
+        "lessons": [
+          "Đại cương về polymer",
+          "Vật liệu polymer",
+          "Chất dẻo và vật liệu composite",
+          "Tơ – Cao su – Keo dán tổng hợp"
+        ]
+      },
+      {
+        "chapter": "PIN ĐIỆN VÀ ĐIỆN PHÂN",
+        "lessons": ["Thế điện cực và nguồn điện hóa học", "Điện phân"]
+      },
+      {
+        "chapter": "ĐẠI CƯƠNG VỀ KIM LOẠI",
+        "lessons": [
+          "Cấu tạo và liên kết trong tinh thể kim loại",
+          "Tính chất vật lí và tính chất hóa học của kim loại",
+          "Kim loại trong tự nhiên và phương pháp tách kim loại",
+          "Hợp kim",
+          "Sự ăn mòn kim loại",
+          "Đặc điểm cấu tạo và liên kết kim loại. Tính chất kim loại",
+          "Các phương pháp tách kim loại",
+          "Hợp kim – Sự ăn mòn kim loại"
+        ]
+      },
+      {
+        "chapter": "NGUYÊN TỐ NHÓM IA VÀ NHÓM IIA",
+        "lessons": [
+          "Nguyên tố nhóm IA",
+          "Nguyên tố nhóm lIA",
+          "Nguyên tố nhóm 1A",
+          "Nguyên tố nhóm IIA"
+        ]
+      },
+      {
+        "chapter": "SƠ LƯỢC VỀ DÃY KIM LOẠI CHUYỂN TIẾP THỨ NHẤT VÀ PHỨC CHẤT",
+        "lessons": [
+          "Đại cương về kim loại chuyển tiếp dây thứ nhất",
+          "Sơ lược về phức chất",
+          "Một số tinh chất và ứng dụng của phức chất",
+          "Sơ lược về phức chất và sự hình thành phức chất của ion kim loại chuyển tiếp trong dung dịch"
+        ]
+      },
+      {
+        "chapter": "ESTER – LIPID. XÀ PHÒNG VÀ CHẤT",
+        "lessons": ["GIẶT RỬA", "Ester – Lipid", "Xà phòng và chất giặt rửa"]
+      }
+    ]
+  },
+  "Vật lí": {
+    "10": [
+      {
+        "chapter": "MỞ ĐẦU",
+        "lessons": [
+          "Làm quen với Vật lí",
+          "Khái quát về môn Vật lí",
+          "Vấn đề an toàn trong Vật lí",
+          "Đơn vị và sai số trong Vật lí"
+        ]
+      },
+      {
+        "chapter": "ĐỘNG HỌC",
+        "lessons": [
+          "Độ dịch chuyển và quãng đường đi được",
+          "Tốc độ và vận tốc",
+          "Đồ thị độ dịch chuyển – thời gian",
+          "Chuyển động biến đổi. Gia tốc",
+          "Chuyển động thẳng biến đổi đều",
+          "Sự rơi tự do",
+          "Chuyển động ném"
+        ]
+      },
+      {
+        "chapter": "ĐỘNG LỰC HỌC",
+        "lessons": [
+          "Tổng hợp và phân tích lực. Cân bằng lực",
+          "Định luật 1 Newton",
+          "Định luật 2 Newton",
+          "Định luật 3 Newton",
+          "Trọng lực và lực căng",
+          "Lực ma sát",
+          "Lực cản và lực nâng",
+          "Một số ví dụ về cách giải các bài toán thuộc phần động lực học",
+          "Moment lực. Cân bằng của vật rắn"
+        ]
+      },
+      {
+        "chapter": "NĂNG LƯỢNG, CÔNG, CÔNG SUẤT",
+        "lessons": [
+          "Năng lượng. Công cơ học",
+          "Công suất",
+          "Động năng, thế năng",
+          "Cơ năng và định luật bảo toàn cơ năng",
+          "Hiệu suất"
+        ]
+      },
+      {
+        "chapter": "ĐỘNG LƯỢNG",
+        "lessons": [
+          "Động lượng",
+          "Định luật bảo toàn động lượng",
+          "Động lượng và định luật bảo toàn động lượng",
+          "Các loại va chạm"
+        ]
+      },
+      {
+        "chapter": "CHUYỂN ĐỘNG TRÒN",
+        "lessons": [
+          "Động học của chuyển động tròn đều",
+          "Lực hướng tâm và gia tốc hướng tâm",
+          "Động học của chuyển động tròn",
+          "Động lực học của chuyển động tròn. Lực hướng tâm"
+        ]
+      },
+      {
+        "chapter": "BIẾN DẠNG CỦA VẬT RẮN. ÁP SUẤT CHẤT LỎNG",
+        "lessons": [
+          "Biến dạng của vật rắn",
+          "Khối lượng riêng. Áp suất chất lỏng"
+        ]
+      },
+      {
+        "chapter": "MÔ TẢ CHUYỂN ĐỘNG",
+        "lessons": ["Chuyển động thẳng", "Chuyển động tổng hợp"]
+      },
+      {
+        "chapter": "CHUYỂN ĐỘNG BIẾN ĐỔI",
+        "lessons": [
+          "Gia tốc – Chuyển động thẳng biến đổi đều",
+          "Chuyển động ném"
+        ]
+      },
+      {
+        "chapter": "BA ĐỊNH LUẬT NEWTON. MỘT SỐ LỰC TRONG THỰC TIỄN",
+        "lessons": [
+          "Ba định luật Newton về chuyển động",
+          "Một số lực trong thực tiễn",
+          "Chuyển động của vật trong chất lưu"
+        ]
+      },
+      {
+        "chapter": "MOMENT LỰC. ĐIỀU KIỆN CÂN BẰNG",
+        "lessons": [
+          "Tổng hợp lực – Phân tích lực",
+          "Moment lực. Điều kiện cân bằng của vật"
+        ]
+      },
+      {
+        "chapter": "NĂNG LƯỢNG",
+        "lessons": [
+          "Năng lượng và công",
+          "Công suất – Hiệu suất",
+          "Động năng và thế năng. Định luật bảo toàn cơ năng"
+        ]
+      },
+      {
+        "chapter": "BIẾN DẠNG CỦA VẬT RẮN",
+        "lessons": [
+          "Biến dạng của vật rắn. Đặc tính của lò xo",
+          "Định luật Hooke",
+          "Giải thích thuật ngữ"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "chapter": "DAO ĐỘNG",
+        "lessons": [
+          "Dao động điều hoà",
+          "Mô tả dao động điều hoà",
+          "Vận tốc, gia tốc trong dao động điều hoà",
+          "Động năng. Thế năng. Sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà",
+          "Dao động tắt dần. Dao động cưỡng bức. Hiện tượng cộng hưởng"
+        ]
+      },
+      {
+        "chapter": "SÓNG",
+        "lessons": [
+          "Mô tả sóng",
+          "Sóng ngang, sóng dọc, sự truyền năng lượng của sóng cơ",
+          "Sóng điện từ",
+          "Giao thoa sóng",
+          "Sóng dừng"
+        ]
+      },
+      {
+        "chapter": "ĐIỆN TRƯỜNG",
+        "lessons": [
+          "Lực tương tác giữa hai điện tích",
+          "Khái niệm điện trường",
+          "Điện trường đều",
+          "Điện thế",
+          "Tụ điện"
+        ]
+      },
+      {
+        "chapter": "DÒNG ĐIỆN. MẠCH ĐIỆN",
+        "lessons": [
+          "Cường độ dòng điện",
+          "Điện trở. Định luật Ohm",
+          "Nguồn điện",
+          "Năng lượng điện và công suất điện"
+        ]
+      },
+      {
+        "chapter": ": DAO ĐỘNG 5",
+        "lessons": [
+          "Mô tả dao động 5",
+          "Phương trình dao động điều hoà 14",
+          "Năng lượng trong dao động điều hoà 22",
+          "Dao động tắt dần và hiện tượng cộng hưởng 26"
+        ]
+      },
+      {
+        "chapter": ": SÓNG 34",
+        "lessons": [
+          "Sóng và sự truyền sóng 34",
+          "Các đặc trưng vật lí của sóng 39",
+          "Sóng điện từ 46",
+          "Giao thoa sóng 49",
+          "Sóng dừng 56"
+        ]
+      },
+      {
+        "chapter": ": ĐIỆN TRƯỜNG 68",
+        "lessons": [
+          "Định luật Coulomb về tương tác tĩnh điện 68",
+          "Điện trường 73",
+          "Điện thế và thế năng điện 80",
+          "Tụ điện 87",
+          "Năng lượng và ứng dụng của tụ điện 93"
+        ]
+      },
+      {
+        "chapter": ": DÒNG ĐIỆN KHÔNG ĐỔI 98",
+        "lessons": [
+          "Dòng điện. Cường độ dòng điện 98",
+          "Điện trở. Định luật Ohm 103",
+          "Nguồn điện 108",
+          "Năng lượng điện. Công suất điện 113",
+          "Giải thích thuật ngữ 123"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "chapter": "VẬT LÍ NHIỆT",
+        "lessons": [
+          "Cấu trúc của chất. Sự chuyển thể",
+          "Nội năng. Định luật I của nhiệt động lực học",
+          "Nhiệt độ. Thang nhiệt độ – nhiệt kế",
+          "Nhiệt dung riêng",
+          "Nhiệt nóng chảy riêng",
+          "Nhiệt hóa hơi riêng"
+        ]
+      },
+      {
+        "chapter": "KHÍ LÍ TƯỞNG",
+        "lessons": [
+          "Mô hình động học phân tử chất khí",
+          "Định luật Boyle",
+          "Định luật Charles",
+          "Phương trình trạng thái của khí lí tưởng",
+          "Áp suất khí theo mô hình động học phân tử. Quan hệ giữa động năng phần tử và nhiệt độ"
+        ]
+      },
+      {
+        "chapter": "TỪ TRƯỜNG",
+        "lessons": [
+          "Từ trường",
+          "Lực tử tác dụng lên dây dẫn mang dòng điện. Cảm ứng từ",
+          "Từ thông. Hiện tượng cảm ứng điện từ",
+          "Máy phát điện xoay chiều",
+          "Ứng dụng hiện tượng cảm ứng điện từ",
+          "Điện từ trường. Mô hình sóng điện từ"
+        ]
+      },
+      {
+        "chapter": "VẬT LÍ HẠT NHÂN",
+        "lessons": [
+          "Cấu trúc hạt nhân",
+          "Phản ứng hạt nhần và năng lượng liên kết",
+          "Hiện tượng phóng xạ",
+          "Công nghiệp hạt nhân"
+        ]
+      },
+      {
+        "chapter": ": VẬT LÍ NHIỆT",
+        "lessons": [
+          "Sự chuyển thể",
+          "Thang nhiệt độ",
+          "Nội năng. Định luật 1 của nhiệt động lực học"
+        ]
+      },
+      {
+        "chapter": ": KHÍ LÍ TƯỞNG",
+        "lessons": [
+          "Thuyết động học phân tử chất khí",
+          "Định luật Boyle. Định luật Charles",
+          "Phương trình trạng thái của khí lí tưởng",
+          "Áp suất – động năng của phân tử khí"
+        ]
+      },
+      {
+        "chapter": ": TỪ TRƯỜNG",
+        "lessons": [
+          "Khái niệm từ trường",
+          "Lực từ. Cảm ứng từ",
+          "Hiện tượng cảm ứng điện từ",
+          "Đại cương về dòng điện xoay chiều"
+        ]
+      },
+      {
+        "chapter": ": VẬT LÍ HẠT NHÂN",
+        "lessons": [
+          "Hạt nhân và mô hình nguyên tử",
+          "Năng lượng liên kết hạt nhân",
+          "Phản ứng phân hạch, phản ứng nhiệt hạch và ứng dụng",
+          "Hiện tượng phóng xạ",
+          "An toàn phóng xạ",
+          "Giải thích thuật ngữ"
+        ]
+      }
+    ]
+  },
+  "Toán": {
+    "10": [
+      {
+        "chapter": "Mệnh đề và tập hợp",
+        "lessons": [
+          "Mệnh đề",
+          "Tập hợp",
+          "Các phép toán tập hợp",
+          "Các tập hợp số"
+        ]
+      },
+      {
+        "chapter": "Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+        "lessons": [
+          "Bất đẳng thức",
+          "Bất phương trình bậc nhất hai ẩn",
+          "Hệ bất phương trình bậc nhất hai ẩn"
+        ]
+      },
+      {
+        "chapter": "Hệ thức lượng trong tam giác",
+        "lessons": [
+          "Giá trị lượng giác của góc từ 0° đến 180°",
+          "Định lý cosin và định lý sin",
+          "Giải tam giác và ứng dụng thực tế",
+          "Công thức diện tích tam giác"
+        ]
+      },
+      {
+        "chapter": "Vectơ",
+        "lessons": [
+          "Khái niệm vectơ",
+          "Tổng và hiệu hai vectơ",
+          "Tích của vectơ với một số",
+          "Tích vô hướng của hai vectơ"
+        ]
+      },
+      {
+        "chapter": "Phương pháp tọa độ trong mặt phẳng",
+        "lessons": [
+          "Hệ trục tọa độ",
+          "Phương trình đường thẳng",
+          "Vị trí tương đối hai đường thẳng",
+          "Khoảng cách từ điểm đến đường thẳng",
+          "Đường tròn"
+        ]
+      },
+      {
+        "chapter": "Hàm số và đồ thị",
+        "lessons": [
+          "Hàm số",
+          "Hàm số bậc hai",
+          "Đồ thị hàm số bậc hai và ứng dụng"
+        ]
+      },
+      {
+        "chapter": "Xác suất",
+        "lessons": [
+          "Phép thử ngẫu nhiên và không gian mẫu",
+          "Biến cố",
+          "Xác suất của biến cố",
+          "Xác suất có điều kiện"
+        ]
+      },
+      {
+        "chapter": "Thống kê",
+        "lessons": [
+          "Số liệu thống kê",
+          "Các số đặc trưng của mẫu số liệu không ghép nhóm",
+          "Các số đặc trưng của mẫu số liệu ghép nhóm"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "chapter": "Hàm số lượng giác và phương trình lượng giác",
+        "lessons": [
+          "Góc lượng giác và đo góc lượng giác",
+          "Giá trị lượng giác",
+          "Hàm số lượng giác",
+          "Phương trình lượng giác cơ bản",
+          "Phương trình lượng giác thường gặp"
+        ]
+      },
+      {
+        "chapter": "Dãy số. Cấp số cộng và cấp số nhân",
+        "lessons": ["Dãy số", "Cấp số cộng", "Cấp số nhân"]
+      },
+      {
+        "chapter": "Giới hạn",
+        "lessons": [
+          "Giới hạn của dãy số",
+          "Giới hạn của hàm số",
+          "Hàm số liên tục"
+        ]
+      },
+      {
+        "chapter": "Đạo hàm",
+        "lessons": [
+          "Định nghĩa đạo hàm",
+          "Ý nghĩa của đạo hàm",
+          "Các quy tắc tính đạo hàm",
+          "Đạo hàm của hàm số lượng giác",
+          "Đạo hàm cấp hai"
+        ]
+      },
+      {
+        "chapter": "Quan hệ vuông góc trong không gian",
+        "lessons": [
+          "Đường thẳng vuông góc với mặt phẳng",
+          "Hai mặt phẳng vuông góc",
+          "Khoảng cách trong không gian"
+        ]
+      },
+      {
+        "chapter": "Phương pháp tọa độ trong không gian",
+        "lessons": [
+          "Hệ trục tọa độ trong không gian",
+          "Phương trình mặt phẳng",
+          "Phương trình đường thẳng trong không gian"
+        ]
+      },
+      {
+        "chapter": "Xác suất",
+        "lessons": [
+          "Biến ngẫu nhiên rời rạc",
+          "Phân phối nhị thức",
+          "Kỳ vọng và phương sai"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "chapter": "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+        "lessons": [
+          "Tính đơn điệu của hàm số",
+          "Cực trị của hàm số",
+          "Giá trị lớn nhất và nhỏ nhất của hàm số",
+          "Đường tiệm cận",
+          "Khảo sát và vẽ đồ thị hàm số"
+        ]
+      },
+      {
+        "chapter": "Hàm số lũy thừa, hàm số mũ và hàm số logarit",
+        "lessons": [
+          "Lũy thừa với số mũ thực",
+          "Hàm số lũy thừa",
+          "Hàm số mũ",
+          "Hàm số logarit",
+          "Phương trình và bất phương trình mũ, logarit"
+        ]
+      },
+      {
+        "chapter": "Nguyên hàm và tích phân",
+        "lessons": ["Nguyên hàm", "Tích phân", "Ứng dụng tích phân"]
+      },
+      {
+        "chapter": "Số phức",
+        "lessons": [
+          "Số phức",
+          "Các phép tính về số phức",
+          "Dạng lượng giác của số phức",
+          "Phương trình bậc hai với hệ số thực"
+        ]
+      },
+      {
+        "chapter": "Thể tích khối đa diện",
+        "lessons": [
+          "Khái niệm về khối đa diện",
+          "Khối lăng trụ và khối chóp",
+          "Thể tích khối đa diện"
+        ]
+      },
+      {
+        "chapter": "Mặt nón, mặt trụ, mặt cầu",
+        "lessons": [
+          "Mặt tròn xoay",
+          "Mặt cầu",
+          "Diện tích và thể tích các khối tròn xoay"
+        ]
+      },
+      {
+        "chapter": "Xác suất",
+        "lessons": [
+          "Biến ngẫu nhiên liên tục",
+          "Phân phối chuẩn",
+          "Mẫu thống kê và ước lượng tham số"
+        ]
+      }
+    ]
+  },
+  "Sinh học": {
+    "10": [
+      {
+        "chapter": "THÀNH PHẦN HOÁ HỌC CỦA TẾ BÀO",
+        "lessons": [
+          "Các nguyên tố hoá học và nước",
+          "Các phân tử sinh học",
+          "Khái quát về tế bào",
+          "Các phân tử sinh học trong tế bào"
+        ]
+      },
+      {
+        "chapter": "CẤU TRÚC TẾ BÀO",
+        "lessons": ["Tế bào nhân sơ", "Tế bào nhân thực"]
+      },
+      {
+        "chapter": "TRAO ĐỔI CHẤT QUA MÀNG VÀ TRUYỀN TIN TẾ BÀO",
+        "lessons": ["Trao đổi chất qua màng tế bào", "Truyền tin tế bào"]
+      },
+      {
+        "chapter": "CHUYỂN HOÁ NĂNG LƯỢNG TRONG TẾ BÀO",
+        "lessons": [
+          "Khái quát về chuyển hoá vật chất và năng lượng",
+          "Phân giải và tổng hợp các chất trong tế bào"
+        ]
+      },
+      {
+        "chapter": "CHU KÌ TẾ BÀO VÀ PHÂN BÀO",
+        "lessons": [
+          "Chu kì tế bào và nguyên phân",
+          "Giảm phân",
+          "Công nghệ tế bào"
+        ]
+      },
+      {
+        "chapter": "SINH HỌC VI SINH VẬT",
+        "lessons": [
+          "Sự đa dạng và phương pháp nghiên cứu vi sinh vật",
+          "Trao đổi chất, sinh trưởng và sinh sản ở vi sinh vật",
+          "Vai trò và ứng dụng của vi sinh vật"
+        ]
+      },
+      {
+        "chapter": "VIRUS",
+        "lessons": [
+          "Khái quát về virus",
+          "Một số bệnh do virus và các thành tựu nghiên cứu ứng dụng virus"
+        ]
+      },
+      {
+        "chapter": "TRAO ĐỔI CHẤT VÀ CHUYỂN HOÁ NĂNG LƯỢNG Ở TẾ BÀO",
+        "lessons": [
+          "Vận chuyển các chất qua màng sinh chất",
+          "Chuyển hoá vật chất và năng lượng trong tế bào",
+          "Tổng hợp các chất và tích luỹ năng lượng",
+          "Phân giải các chất và giải phóng năng lượng",
+          "Thông tin giữa các tế bào"
+        ]
+      },
+      {
+        "chapter": "CHU KÌ TẾ BÀO, PHÂN BÀO VÀ CÔNG NGHỆ TẾ BÀO",
+        "lessons": ["Chu kì tế bào", "Quá trình phân bào", "Công nghệ tế bào"]
+      },
+      {
+        "chapter": "VI SINH VẬT VÀ ỨNG DỤNG",
+        "lessons": [
+          "Khái quát về vi sinh vật",
+          "Quá trình tổng hợp và phân giải ở vi sinh vật",
+          "Sinh trưởng và sinh sản ở vi sinh vật",
+          "Công nghệ vi sinh vật",
+          "Ứng dụng vi sinh vật trong thực tiễn"
+        ]
+      },
+      {
+        "chapter": "VIRUS VÀ ỨNG DỤNG",
+        "lessons": [
+          "Virus",
+          "Ứng dụng của virus trong y học và thực tiễn",
+          "Virus gây bệnh",
+          "Bảng giải thích thuật ngữ"
+        ]
+      }
+    ],
+    "11": [
+      {
+        "chapter": "Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+        "lessons": [
+          "Khái quát về trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+          "Trao đổi nước và khoáng ở thực vật",
+          "Quang hợp ở thực vật",
+          "Hô hấp ở thực vật",
+          "Dinh dưỡng và tiêu hoá ở động vật",
+          "Hô hấp ở động vật",
+          "Tuần hoàn ở động vật",
+          "Miễn dịch ở động vật và người",
+          "Bài tiết và cân bằng nội môi"
+        ]
+      },
+      {
+        "chapter": "Cảm ứng ở sinh vật",
+        "lessons": [
+          "Khái quát về cảm ứng ở sinh vật",
+          "Cảm ứng ở thực vật",
+          "Cảm ứng ở động vật",
+          "Tập tính ở động vật"
+        ]
+      },
+      {
+        "chapter": "Sinh trưởng và phát triển ở sinh vật",
+        "lessons": [
+          "Khái quát về sinh trưởng và phát triển ở sinh vật",
+          "Sinh trưởng và phát triển ở thực vật",
+          "Sinh trưởng và phát triển ở động vật"
+        ]
+      },
+      {
+        "chapter": "Sinh sản ở sinh vật",
+        "lessons": [
+          "Khái quát về sinh sản ở sinh vật",
+          "Sinh sản ở thực vật",
+          "Sinh sản ở động vật"
+        ]
+      },
+      {
+        "chapter": "Mối quan hệ giữa các quá trình sinh lí trong cơ thể và một số ngành nghề liên quan đến sinh học cơ thể",
+        "lessons": [
+          "Cơ thể sinh vật là một hệ thống mở và tự điều chỉnh",
+          "Một số ngành nghề liên quan đến sinh học cơ thể",
+          "Bảng giải thích thuật ngữ"
+        ]
+      }
+    ],
+    "12": [
+      {
+        "chapter": "DI TRUYỀN PHÂN TỬ",
+        "lessons": [
+          "Bài 1 DNA và cơ chế tái bản DNA",
+          "Bài 2 Gene, quá trình truyền đạt thông tin di truyền và hệ gene",
+          "Bài 3 Điều hòa biểu hiện gene",
+          "Bài 4 Đột biến gene",
+          "Bài 5 Công nghệ di truyền"
+        ]
+      },
+      {
+        "chapter": "DI TRUYỀN NHIỄM SẮC THỂ",
+        "lessons": [
+          "Bài 7 Cầu trúc và chức năng của nhiễm sắc thể",
+          "Bài 8 Học thuyết di truyền của Mendel",
+          "Bài 9 Mở rộng học thuyết Mendel",
+          "Bài 10 Di truyền giới tính và di truyền liên kết với giới tính",
+          "Bài 11 Liên kết gene và hoán vị gene",
+          "Bài 12 Đột biến nhiễm sắc thể",
+          "Bài 13 Di truyền học người và di truyền y học"
+        ]
+      },
+      {
+        "chapter": "MỞ RỘNG HỌC THUYẾT DI TRUYỀN NHIỄM SẮC THỂ",
+        "lessons": [
+          "Bài 15 Di truyền gene ngoài nhãn",
+          "Bài 16 Tương tác giữa kiểu gene với môi trường và thành tựu chọn giống"
+        ]
+      },
+      {
+        "chapter": "DI TRUYỀN QUẦN THỂ",
+        "lessons": ["Bài 18 Di truyền quần thể"]
+      },
+      {
+        "chapter": "BẰNG CHỨNG VÀ CÁC HỌC THUYẾT TIẾN HÓA",
+        "lessons": [
+          "Bài 19 Các bằng chứng tiến hoá",
+          "Bài 20 Quan niêm của Darwin về chọn lọc tư nhiên và hình thành loài. Bài 21 Học thuyết tiến hóa tổng hợp hiện đại",
+          "Bài 22  Tiến hóa lớn và quá trình phát sinh chủng loại"
+        ]
+      },
+      {
+        "chapter": "MÔI TRƯỜNG VÀ SINH THÁI HỌC QUẦN THỂ",
+        "lessons": [
+          "Bài 23 Môi trường và các nhân tố sinh thái",
+          "Bài 24 Sinh thái học quần thể"
+        ]
+      },
+      {
+        "chapter": "SINH THÁI HỌC QUẦN XÃ",
+        "lessons": [
+          "Bài 26 Quần xã sinh vật",
+          "Bài 28 Hệ sinh thái",
+          "Bài 29 Trao đổi vật chất và chuyển hóa năng lượng trong hệ sinh thái",
+          "Bài 30 Diễn thế",
+          "Bài 31 Sinh quyển, khu sinh học và chu trình sinh – đia – hóa"
+        ]
+      },
+      {
+        "chapter": "SINH THÁI HOC PHỤC HỒI, BẢO TỒN VÀ PHÁT TRIỂN BỀN VỮNG",
+        "lessons": [
+          "Bài 33 Sinh thái học phục hồi và bảo tồn đa dạng",
+          "Bai 34 Phát triển bền vững",
+          "Bài 35 Dự án: Tìm hiểu thực trạng bảo tồn sinh thái tại địa phương và đế xuất giải pháp bảo tồn",
+          "Một số thuật ngữ sử dụng trong sách"
+        ]
+      },
+      {
+        "chapter": ": Di truyền phân tử và di truyền nhiễm sắc thể",
+        "lessons": [
+          "Bài 1: Gene và cơ chế truyền thông tin di truyền",
+          "Bài 3: Điều hoà biểu hiện gene",
+          "Bài 4: Hệ gene, đột biến gene và công nghệ gene",
+          "Bài 5: Nhiễm sắc thể và đột biến nhiễm sắc thể",
+          "Bài 7: Di truyền học Mendel và mở rộng học thuyết Mendel",
+          "Bài 8: Các quy luật di truyền của Morgan và di truyền giới tính",
+          "Bài 9: Di truyền gene ngoài nhân"
+        ]
+      },
+      {
+        "chapter": ": Tương tác giữa kiểu gene với môi trường và thành tựu chọn giống",
+        "lessons": [
+          "Bài 10: Mối quan hệ giữa kiểu gene – kiểu hình – môi trường",
+          "Bài 12: Thành tựu chọn, tạo giống bằng phương pháp lại hữu tính"
+        ]
+      },
+      {
+        "chapter": ": Di truyền quần thể và di truyền học người",
+        "lessons": ["Bài 13: Di truyền quần thể", "Bài 14: Di truyền học người"]
+      },
+      {
+        "chapter": ": Bằng chứng và cơ chế tiến hoá",
+        "lessons": [
+          "Bài 15: Các bằng chứng tiến hoá",
+          "Bài 16: Quan niệm của Darwin về chọn lọc tự nhiên và hình thành loài",
+          "Bài 17: Thuyết tiến hoá tổng hợp hiện đại"
+        ]
+      },
+      {
+        "chapter": ": Sự phát sinh và phát triển của sự sống trên Trái Đất",
+        "lessons": [
+          "Bài 18: Sự phát sinh sự sống",
+          "Bài 19: Sự phát triển sự sống"
+        ]
+      },
+      {
+        "chapter": ": Môi trường và quần thể sinh vật",
+        "lessons": [
+          "Bài 20: Môi trường và các nhân tố sinh thái",
+          "Bài 21: Quần thể sinh vật"
+        ]
+      },
+      {
+        "chapter": ": Quần xã sinh vật và hệ sinh thái",
+        "lessons": ["Bài 23: Quần xã sinh vật", "Bài 25: Hệ sinh thái"]
+      },
+      {
+        "chapter": ": Sinh thái học phục hồi, bảo tồn và phát triển bền vững",
+        "lessons": [
+          "Bài 27: Sinh thái học phục hồi và bảo tồn",
+          "Bài 28: Phát triển bền vững",
+          "Bảng giải thích thuật ngữ"
+        ]
+      }
+    ]
+  }
+}

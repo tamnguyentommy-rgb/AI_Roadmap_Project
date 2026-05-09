@@ -1,0 +1,23 @@
+{
+    "files.exclude": {
+      "**/.git": true,
+      "**/.DS_Store": true,
+      "**/.next": true,
+      "**/node_modules": true,
+      "**/tailwind.config.*": true,
+      "**/postcss.config.*": true,
+      "**/tsconfig.json": true,
+      "**/.eslintrc.json": true,
+      "**/.gitignore": true,
+      "**/package-lock.json": true,
+      "**/README.md": true,
+      "**/next-env.d.ts": true
+    },
+    "python-envs.pythonProjects": [
+      {
+        "path": "backend",
+        "envManager": "ms-python.python:venv",
+        "packageManager": "ms-python.python:pip"
+      }
+    ]
+  }

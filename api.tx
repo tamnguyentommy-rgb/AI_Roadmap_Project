@@ -1,0 +1,30 @@
+// frontend/lib/api.ts
+import axios from 'axios';
+
+// Khởi tạo một cái "điện thoại" chuyên để gọi cho Backend
+export const apiClient = axios.create({
+  baseURL: 'http://127.0.0.1:8000/api', // Địa chỉ FastAPI Backend của mày
+  headers: {
+    'Content-Type': 'application/json',
+  },
+});
+
+export const api = {
+  // 1. Tạo user mới
+  createUser: async (username: string, email: string) => {
+    const response = await apiClient.post('/users/', { username, email });
+    return response.data;
+  },
+
+  // 2. Gọi AI đẻ kịch bản và lời khuyên
+  generateRoadmap: async (userId: number, data: any) => {
+    const response = await apiClient.post(`/roadmap/generate/${userId}`, data);
+    return response.data;
+  },
+
+  // 3. Chốt lộ trình
+  selectRoadmap: async (roadmapId: number, scenarioName: string) => {
+    const response = await apiClient.post(`/roadmap/select/${roadmapId}?scenario_name=${encodeURIComponent(scenarioName)}`);
+    return response.data;
+  }
+};
