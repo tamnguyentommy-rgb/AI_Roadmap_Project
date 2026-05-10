@@ -1,10 +1,10 @@
 "use client";
-import { useEffect } from "react";
+import { Suspense, useEffect } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useAuth } from "../../src/contexts/auth";
 import api from "../../src/lib/api";
 
-export default function OAuthCallback() {
+function OAuthCallbackInner() {
   const router = useRouter();
   const params = useSearchParams();
   const { login } = useAuth();
@@ -41,5 +41,19 @@ export default function OAuthCallback() {
       </div>
       <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
     </div>
+  );
+}
+
+export default function OAuthCallback() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen flex items-center justify-center" style={{ background: "#070b14" }}>
+        <div className="w-10 h-10 border-2 border-blue-500/30 border-t-blue-500 rounded-full"
+          style={{ animation: "spin 1s linear infinite" }} />
+        <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
+      </div>
+    }>
+      <OAuthCallbackInner />
+    </Suspense>
   );
 }
