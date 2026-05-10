@@ -19,3 +19,4 @@ numpy
 httpx
 beautifulsoup4
 lxml
+psycopg2-binary
